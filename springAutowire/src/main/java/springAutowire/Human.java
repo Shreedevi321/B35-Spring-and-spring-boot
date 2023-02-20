@@ -1,4 +1,4 @@
-package org.tnsif.springautowire;
+package springAutowire;
 //Program to demonstrate on autowiring
 public class Human {
 	

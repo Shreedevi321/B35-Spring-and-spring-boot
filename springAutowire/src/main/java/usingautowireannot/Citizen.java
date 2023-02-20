@@ -1,4 +1,4 @@
-package org.tnsif.usingautowireannot;
+package usingautowireannot;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.beans.factory.annotation.Qualifier;
 //program to demonstrate on Spring autowiring by using @Autowired annotation

@@ -1,4 +1,4 @@
-package org.tnsif.usingautowireannot;
+package usingautowireannot;
 //program to demonstrate on Spring auto-wiring by using @Autowired annotation
 public class Passport {
 	

@@ -1,5 +1,5 @@
-package org.tnsif.springautowire;
-//Program to demonstrate on autowiring
+package springAutowire;
+//Program to demonstrate on Autowiring
 public class Heart {
 	public void pump()
 	{
